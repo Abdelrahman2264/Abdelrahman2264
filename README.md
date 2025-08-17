@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Engineer;Software Engineer;Data Science Student" alt="Typing Animation" />
 </h1>
 
 # Hi there, I'm Abdelrahman Khalaf <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
